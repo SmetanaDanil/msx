@@ -1,5 +1,5 @@
 {
     "name": "msxtest",
     "version": "1.0.1",
-    "parameter": "menu:https://SmetanaDanil.github.io/msx/data/menu.json"
+    "parameter": "menu:https://SmetanaDanil.github.io/testmsx/data/menu.json"
 }
